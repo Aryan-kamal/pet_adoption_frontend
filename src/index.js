@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-export const serverUrl="http://localhost:400/api"
+export const serverUrl = "https://petadoptionbackend-production.up.railway.app/api";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
