@@ -11,7 +11,7 @@ function Story() {
           <strong>Our Organization's Journey</strong>
         </p>
         <p>
-          Our organization was founded in 2010 by Archita Pandey with a mission to provide
+          Our organization was founded in 2024 by Aryan Kamal with a mission to provide
           a loving and caring environment for animals in need. It all began with a simple idea:
           to make a difference in the lives of pets who had been abandoned or were living in
           unfortunate conditions.
@@ -33,8 +33,8 @@ function Story() {
         <div className="story-stats">
           <h4>Our Impact:</h4>
           <ul>
-            <li><strong>Number of Pets Rescued:</strong> 1500+</li>
-            <li><strong>Number of Pets Adopted:</strong> 1000+</li>
+            <li><strong>Number of Pets Rescued:</strong> 500+</li>
+            <li><strong>Number of Pets Adopted:</strong> 250+</li>
           </ul>
         </div>
       </div>

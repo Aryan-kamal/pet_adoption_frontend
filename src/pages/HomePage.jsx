@@ -18,7 +18,7 @@ function Home() {
       </div>
       <div className="overlay">
         <div className="content">
-          <b><h1 className="display-4">Welcome to RescueRover.org</h1></b>
+          <b><h1 className="display-4">Welcome to Happy Tails Hub</h1></b>
           <p className="lead">
             We have been dedicated to rescuing and rehoming pets for over 15 years.
           </p>
