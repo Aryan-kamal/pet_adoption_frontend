@@ -13,9 +13,9 @@ function CheckoutForm() {
         e.preventDefault();
 
         emailjs
-            .sendForm('rescuerover', 'archita_pandey', form.current, {
-                publicKey: 'mOyyQLOX0AQWwrNGm',
-            })
+            .sendForm("service_wyhwa62", "template_u7slgqy", form.current, {
+				publicKey: "FhrItX4wrCsmskVMW", 
+            }) // not fixed and configured 
             .then(
                 () => {
                     setSuccess(true);
