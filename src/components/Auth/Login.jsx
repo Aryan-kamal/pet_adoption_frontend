@@ -14,7 +14,6 @@ function Login() {
   useEffect(() => {
     const token = localStorage.getItem('token');
     if (token) {
-      const decodedToken = jwtDecode(token);
       window.location.href = '/';
     }
   }, [navigate]);

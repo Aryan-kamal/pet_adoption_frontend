@@ -31,10 +31,8 @@
     height: 100%;
 }
 
-/* Card styling with a background image */
+/* Card styling */
 .custom-card {
-    background-image: url('');
-    /* Path to the catdog background image */
     background-size: contain;
     /* Ensure the image fits inside the card */
     background-repeat: no-repeat;
