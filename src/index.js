@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 export const serverUrl =
-	"https://pet-adoption-backend-um2d.onrender.com" || "http://localhost:4000/api";
+	"https://pet-adoption-backend-um2d.onrender.com/api" || "http://localhost:4000/api";
 // http://localhost:4000/api
 // https://petadoptionbackend-production.up.railway.app/api
 const root = ReactDOM.createRoot(document.getElementById("root"));
